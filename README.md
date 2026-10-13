@@ -2,19 +2,13 @@
 
 ### Exploring ideas, building things, and figuring it out along the way.
 
-- 🔭 I'm currently working on **Personal projects and exploring new ideas**
-
-- 🌱 I'm currently learning **New skills, creative tools, and how to build cool things**
-
-- 👯 I'm looking to collaborate on **Interesting projects with creative and curious people**
-
-- 🤝 I'm looking for help with **Turning random ideas into something real**
-
-- 💬 Ask me about **My interests, ideas, games, music, or anything worth talking about**
-
-- 📫 How to reach me **Feel free to connect with me on GitHub**
-
-- ⚡ Fun fact **Quiet mind, endless curiosity, midnight thoughts**
+🔭 Currently working on personal projects & late-night ideas.  
+🌱 Learning new skills and exploring creativity.  
+👯 Open to collaborating on creative projects.  
+🤝 Turning random ideas into reality.  
+💬 Talk to me about games, music, or random thoughts.  
+📫 Feel free to connect with me here on GitHub.  
+⚡ Quiet mind. Endless curiosity. Midnight thoughts.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
