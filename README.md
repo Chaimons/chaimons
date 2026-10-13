@@ -1,6 +1,6 @@
  <div align="center">
 
-# Holla, I'm Atashi 
+# Holla, I'm Ata! 
 
 <div align="left">
   
@@ -10,13 +10,13 @@
 </div>
 <div align="left">
 
-🔭 **Currently working on:** *Personal projects & late-night ideas.*  
-🌱 **Currently learning:** *New skills, exploring creativity, and building cool things.*  
-👯 **Looking to collaborate on:** *Creative projects and interesting ideas.*  
-🤝 **Looking for help with:** *Turning ideas into reality.*  
-💬 **Ask me about:** *Games, music, random thoughts, or anything interesting.*  
-📫 **Reach me at:** *Feel free to connect with me here on GitHub.*  
-⚡ **Fun fact:** *Quiet mind. Endless curiosity. Midnight thoughts.* 
+<h3 align="left">🌌 About Me</h3>
+
+🔭 *Working on personal projects and exploring new ideas*  
+🌱 *Continuously learning new technologies and developing technical skills*  
+👯 *Open to collaboration and new opportunities.*  
+💬 *Games, music, random thoughts, or anything interesting.*  
+⚡ *Quiet mind. Endless curiosity. Midnight thoughts.* 
 
 </div>
 
