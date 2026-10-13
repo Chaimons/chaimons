@@ -10,8 +10,8 @@
 📫 Feel free to connect with me here on GitHub.  
 ⚡ Quiet mind, Endless curiosity, Midnight thoughts.
 
-<h3 align="middle">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3>
+<p align="middle">
 <a href="https://github.com/Chaimons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Chaimons" height="30" width="40" /></a>
 <a href="https://instagram.com/@ValkyrieFreyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ValkyrieFreyaa" height="30" width="40" /></a>
 <a href="https://discord.gg/ndraavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ndraavy" height="30" width="40" /></a>
