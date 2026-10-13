@@ -1,4 +1,4 @@
-# Hi 👋, I'm Atashi
+# Hi!, I'm Atashi
 
 ### Exploring ideas, building things, and figuring it out along the way.
 
@@ -8,9 +8,9 @@
 🤝 Turning random ideas into reality.  
 💬 Talk to me about games, music, or random thoughts.  
 📫 Feel free to connect with me here on GitHub.  
-⚡ Quiet mind. Endless curiosity. Midnight thoughts.
+⚡ Quiet mind, Endless curiosity, Midnight thoughts.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="middle">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Chaimons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Chaimons" height="30" width="40" /></a>
 <a href="https://instagram.com/@ValkyrieFreyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ValkyrieFreyaa" height="30" width="40" /></a>
